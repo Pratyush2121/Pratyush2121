@@ -1,9 +1,9 @@
  Hi I'm Pratyush Mishra  
-About Me  
+About Me 
 - 🧪 Automation Testing using Playwright  
 - 🌐 Frontend Development (HTML, CSS, JavaScript, react js)  
 - 🤖 Interested in AI-based projects & real-world solutions  
-- 🚀 Built projects like AI Cattle Breed Detection & Charity Platform  
+- 🚀 Built projects like AI Cattle Breed Detection & Charity Platform and others you can see them in my repository 
 📊 GitHub Stats  
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratyush2121&show_icons=true&theme=tokyonight)
 Connect With Me  
