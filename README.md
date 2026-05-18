@@ -1,7 +1,7 @@
  Hi I'm Pratyush Mishra  
 About Me 
 - 🧪 Automation Testing using Playwright  
-- 🌐 Frontend Development (HTML, CSS, JavaScript, react js)  
+- 🌐 Full stack developer  (HTML, CSS, JavaScript, react js, expressjs,nodejs,Mongodb)  
 - 🤖 Interested in AI-based projects & real-world solutions  
 - 🚀 Built projects like AI Cattle Breed Detection & Charity Platform and others you can see them in my repository 
 📊 GitHub Stats  
